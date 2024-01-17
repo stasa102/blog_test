@@ -1,0 +1,15 @@
+@media screen and (max-width: 500px) {
+  a.navbar-brand {
+    font-size: 20px;
+  }
+
+  .carousel-control-prev-icon,
+  .carousel-control-next-icon {
+    width: 50%;
+  }
+
+  #carouselExampleIndicators button {
+    width: 8px;
+    height: 8px;
+  }
+}
